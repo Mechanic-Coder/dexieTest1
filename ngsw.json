@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1579751238330,
+  "timestamp": 1580260646430,
   "index": "/dexieTest1/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
         "/dexieTest1/main-es2015.074ebcfc90ef2adf26a8.js",
         "/dexieTest1/main-es5.074ebcfc90ef2adf26a8.js",
         "/dexieTest1/manifest.webmanifest",
-        "/dexieTest1/polyfills-es2015.2987770fde9daa1d8a2e.js",
-        "/dexieTest1/polyfills-es5.6696c533341b95a3d617.js",
+        "/dexieTest1/polyfills-es2015.d056d32e4cd3f698da0a.js",
+        "/dexieTest1/polyfills-es5.39fee5a95a0435c97976.js",
         "/dexieTest1/runtime-es2015.edb2fcf2778e7bf1d426.js",
         "/dexieTest1/runtime-es5.edb2fcf2778e7bf1d426.js",
         "/dexieTest1/styles.3ff695c00d717f2d2a11.css"
@@ -49,12 +49,12 @@
     "/dexieTest1/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/dexieTest1/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/dexieTest1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/dexieTest1/index.html": "4d4d3945108e31f28b9b2050bdb86814859c2ce1",
+    "/dexieTest1/index.html": "9cd45e8cd843623061489d8116193324a65a4655",
     "/dexieTest1/main-es2015.074ebcfc90ef2adf26a8.js": "dc7036f8d8879478fef24fa997bc3f4f25791cc4",
     "/dexieTest1/main-es5.074ebcfc90ef2adf26a8.js": "37f36179a0755e0fe5c2ca900bb3899f6197ba1d",
-    "/dexieTest1/manifest.webmanifest": "3a97f348da1490221ba02a47925aa1ff5d9230fa",
-    "/dexieTest1/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
-    "/dexieTest1/polyfills-es5.6696c533341b95a3d617.js": "6bff0c03e05bb347d213ad1b3674045eb892d189",
+    "/dexieTest1/manifest.webmanifest": "2fb08e25afb75fdfa96dd16be052d0cc8ed99db8",
+    "/dexieTest1/polyfills-es2015.d056d32e4cd3f698da0a.js": "e5ebc6e7e00c8fe1609833f74b1c7a3acd355fcf",
+    "/dexieTest1/polyfills-es5.39fee5a95a0435c97976.js": "0195727f9d8e6245e9a9934edf24e49590c5e795",
     "/dexieTest1/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/dexieTest1/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/dexieTest1/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
